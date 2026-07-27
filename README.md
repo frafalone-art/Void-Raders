@@ -1,11 +1,11 @@
 # 👾 Void Raiders
 Void Raiders is an arcade space-shooter built from scratch in Python, featuring 25 campaign levels, 5 multi-phase bosses, and a procedurally generated endless mode.
 
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Web-green)
+[![itch.io](https://img.shields.io/badge/itch.io-Play%20Now-FA5C5C?logo=itchdotio&logoColor=white)](https://francescofalone.itch.io/void-raiders)
+![Platform](https://img.shields.io/badge/Platform-Windows-green)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Pygame](https://img.shields.io/badge/Pygame-2.x-purple)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
-[![itch.io](https://img.shields.io/badge/itch.io-Play%20Now-FA5C5C?logo=itchdotio&logoColor=white)](https://francescofalone.itch.io/void-raiders)
 
 ---
 
@@ -33,14 +33,20 @@ The game offers:
 ---
 
 # 📱 Availability
-Void Raiders is out now on itch.io for Windows and Web (browser):
+Void Raiders is out now on itch.io for Windows (a browser/Web build is coming soon):
 👉 **[francescofalone.itch.io/void-raiders](https://francescofalone.itch.io/void-raiders)**
 
 ---
 
 # 🧠 Code Showcase
 This repository is a **showcase**, not the full project source — the complete codebase stays private.
-[`snippets.py`](./snippets.py) collects a few pieces I'm particularly happy with: boss FSM logic, the rule-based procedural formation generator for endless mode, and a couple of the procedural-audio functions.
+[`snippets.py`](./snippets.py) collects a few pieces I'm particularly happy with: the enemy class hierarchy and dive-steering mixin, boss FSM logic, the rule-based procedural formation generator for endless mode, probability-driven enemy behavior (the shield mechanic), and a couple of the procedural-audio functions.
+
+---
+
+# 📄 Legal
+Copyright (c) 2026 Francesco Falone.
+All rights reserved. The full source code, assets, and game logic are not covered by any open license — `snippets.py` is shared for demonstration purposes only.
 
 ---
 
@@ -57,4 +63,4 @@ Independent developer — Void Raiders is a solo project built to explore game d
 ---
 
 # 📄 License
-Copyright (c) 2026 Francesco Falone. All rights reserved. The full source code, assets, and game logic are not covered by any open license — `snippets.py` is shared for demonstration purposes only.
+Copyright (c) 2026 Francesco Falone. All rights reserved.
