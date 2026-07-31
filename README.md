@@ -2,9 +2,9 @@
 
 
 [![Play on itch.io](https://img.shields.io/badge/itch.io-Play%20Now-FA5C5C)](https://francescofalone.itch.io/void-raders)
-![Platform](https://img.shields.io/badge/Platform-Windows-green)
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Pygame](https://img.shields.io/badge/Pygame-2.x-purple)
+![Platform](https://img.shields.io/badge/Platform-Windows-00A4EF)
+![Python](https://img.shields.io/badge/Python-3.x-3572A5?logo=python)
+![Pygame](https://img.shields.io/badge/Pygame-2.x-FFE366)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
 
 Void Raiders is an arcade space-shooter built from scratch in Python, featuring 25 campaign levels, 5 multi-phase bosses, and a procedurally generated endless mode.
