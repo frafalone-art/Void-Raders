@@ -1,11 +1,11 @@
-# <img src="PERCORSO_O_URL_DEL_LOGO_VOID_RAIDERS" width="40" vertical-align="middle"> Void Raiders
+# <img src="media/icon.ico" width="40" align="center"> Void Raiders
 Void Raiders is an arcade space-shooter built from scratch in Python, featuring 25 campaign levels, 5 multi-phase bosses, and a procedurally generated endless mode.
 
-[![Play on itch.io](https://img.shields.io/badge/itch.io-Play%20Now-FA5C5C)](https://francescofalone.itch.io/void-raders)
-![Platform](https://img.shields.io/badge/Platform-Windows-green)
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Pygame](https://img.shields.io/badge/Pygame-2.x-purple)
-![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
+[![Play on itch.io](https://shields.io)](https://itch.io)
+![Platform](https://shields.io)
+![Python](https://shields.io)
+![Pygame](https://shields.io)
+![License](https://shields.io)
 
 ---
 
@@ -25,9 +25,16 @@ The game offers:
 *Ecco l'universo di Void Raiders in azione. Tutta la pixel art e la logica di gioco sono curate da me.*
 
 <p align="center">
-  <img src="PERCORSO_O_URL_DELLO_SCREENSHOT_1" width="30%" alt="Void Raiders Gameplay 1">
-  <img src="PERCORSO_O_URL_DELLO_SCREENSHOT_2" width="30%" alt="Void Raiders Gameplay 2">
-  <img src="PERCORSO_O_URL_DELLO_SCREENSHOT_3" width="30%" alt="Void Raiders Gameplay 3">
+  <img src="media/Screenshot_01.png" width="45%" alt="Void Raiders Gameplay 1">
+  <img src="media/Screenshot_02.png" width="45%" alt="Void Raiders Gameplay 2">
+</p>
+<p align="center">
+  <img src="media/Screenshot_03.png" width="45%" alt="Void Raiders Gameplay 3">
+  <img src="media/Screenshot_04.png" width="45%" alt="Void Raiders Gameplay 4">
+</p>
+
+<p align="center">
+  <img src="media/cover.png" width="92%" alt="Void Raiders Cover">
 </p>
 
 ---
@@ -45,7 +52,7 @@ The game offers:
 
 # 📱 Availability
 Void Raiders is out now on itch.io for Windows (a browser/Web build is coming soon):
-👉 **[francescofalone.itch.io/void-raiders](https://francescofalone.itch.io/void-raiders)**
+👉 **[francescofalone.itch.io/void-raiders](https://itch.io)**
 
 ---
 
