@@ -24,7 +24,6 @@ The game offers:
 ---
 
 # 📸 Screenshots & Gameplay
-*Ecco l'universo di Void Raiders in azione. Tutta la pixel art e la logica di gioco sono curate da me.*
 
 <p align="center">
   <img src="media/Screenshot_01.png" width="45%" alt="Void Raiders Gameplay 1">
