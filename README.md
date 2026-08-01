@@ -1,7 +1,7 @@
 # <img src="media/icon.ico" width="40" align="center"> Void Raiders
 
 
-[![Play on itch.io](https://img.shields.io/badge/itch.io-Play%20Now-FA5C5C)](https://francescofalone.itch.io/void-raders)
+[![Play on itch.io](https://img.shields.io/badge/itch.io-Play%20Now-FA5C5C?logo=itch.io)](https://francescofalone.itch.io/void-raders)
 ![Platform](https://img.shields.io/badge/Platform-Windows-00A4EF)
 ![Python](https://img.shields.io/badge/Python-3.x-3572A5?logo=python)
 ![Pygame](https://img.shields.io/badge/Pygame-2.x-FFE366)
