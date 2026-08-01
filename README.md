@@ -2,7 +2,7 @@
 
 
 [![Play on itch.io](https://img.shields.io/badge/itch.io-Play%20Now-FA5C5C?logo=itch.io)](https://francescofalone.itch.io/void-raders)
-![Platform](https://img.shields.io/badge/Platform-Windows-00A4EF?logo=windows&logoColor=white)
+[![Platform](https://img.shields.io/badge/Platform-Windows-00A4EF?logo=microsoft&logoColor=white)](https://microsoft.com/)
 [![Python](https://img.shields.io/badge/Python-3.x-3572A5?logo=python)](https://python.org)
 [![Pygame](https://img.shields.io/badge/Pygame-2.x-307824?logo=pygame)](https://pygame.org/)
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-maroon)](LICENSE)
